@@ -11,11 +11,3 @@ To install just
 ```
 make install
 ```
-
-Or if on Arch install from the AUR:
-
-(if using paru)
-
-```
-paru -Syu biblesay
-```
